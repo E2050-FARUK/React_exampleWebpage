@@ -17,7 +17,7 @@
 }
 
 .services {
-  background-image: url('/images/img-2.jpg');
+  background-image: url('https://github.com/frkesen/react-webpage-1/blob/gh-pages/images/img-2.jpg?raw=true');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -26,7 +26,7 @@
 }
 
 .products {
-  background-image: url('/images/img-1.jpg');
+  background-image: url('https://github.com/frkesen/react-webpage-1/blob/gh-pages/images/img-1.jpg?raw=true');
   background-position: center;
   background-size: fill;
   background-repeat: no-repeat;
@@ -35,7 +35,7 @@
 }
 
 .sign-up {
-  background-image: url('/images/img-8.jpg');
+  background-image: url('https://github.com/frkesen/react-webpage-1/blob/gh-pages/images/img-8.jpg?raw=true');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
